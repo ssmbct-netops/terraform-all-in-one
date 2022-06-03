@@ -1,3 +1,4 @@
 localstack
 awscli
 aws-sam-cli
+cookiecutter>=2.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
