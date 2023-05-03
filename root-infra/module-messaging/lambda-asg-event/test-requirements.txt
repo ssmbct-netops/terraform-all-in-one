@@ -1,3 +1,4 @@
 localstack
 awscli
 aws-sam-cli
+flask>=2.2.5 # not directly required, pinned by Snyk to avoid a vulnerability
